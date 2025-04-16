@@ -1,1 +1,4 @@
-Welcome to the version control (modified)
+Welcome to the version control 
+
+GIT is tracking changes 
+GIT is a Data Version Control System
